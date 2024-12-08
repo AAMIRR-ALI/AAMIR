@@ -76,11 +76,30 @@ a {
     margin: 0 2px;
 }
 
+.lni-twitter-original:hover {
+    background: #0088cc;
+    border-radius: 100px;
+    transition: 0.3s;
+}
+
 .lni-telegram-original:hover {
     background: #0088cc;
     border-radius: 100px;
     transition: 0.3s;
 }
+
+.lni-xda:hover {
+    background: #0088cc;
+    border-radius: 100px;
+    transition: 0.3s;
+}
+
+.lni-envelope:hover {
+    background: #0088cc;
+    border-radius: 100px;
+    transition: 0.3s;
+}
+
 .lni-gallery:hover {
     background: #93c47d;
     border-radius: 100px;
@@ -97,7 +116,7 @@ a {
     transition: 0.3s;
 }
 .lni-github-original:hover {
-    background: #000000;
+    background: #0088cc;
     border-radius: 100px;
     transition: 0.3s;
 }
